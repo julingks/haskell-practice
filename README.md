@@ -1,4 +1,4 @@
-# haskell-practice
+# Haskell-practice
 
 ## Install on Mac 
 
