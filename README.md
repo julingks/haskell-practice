@@ -1,4 +1,4 @@
-# Haskell-practice
+# Haskell Practice
 
 ## Install on Mac 
 
@@ -17,3 +17,9 @@ Hello World
 Prelude>
 Leaving GHCi.
 ```
+
+## Haskell in 5 steps
+* https://wiki.haskell.org/Haskell_in_5_steps
+
+## Links
+* [https://www.haskell.org/](https://www.haskell.org/)
