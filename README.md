@@ -22,4 +22,5 @@ Leaving GHCi.
 * https://wiki.haskell.org/Haskell_in_5_steps
 
 ## Links
+* [http://lotz84.github.io/haskellbyexample/](http://lotz84.github.io/haskellbyexample/)
 * [https://www.haskell.org/](https://www.haskell.org/)
